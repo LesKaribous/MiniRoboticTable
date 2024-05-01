@@ -1,32 +1,11 @@
-# Prerequisites
-*.d
+# Created by https://www.toptal.com/developers/gitignore/api/freecad
+# Edit at https://www.toptal.com/developers/gitignore?templates=freecad
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+### FreeCad ###
+*.pyc
+*.fcstd1
+*.FCStd1
+*.fcstd2
+*.FCStd2
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# End of https://www.toptal.com/developers/gitignore/api/freecad
